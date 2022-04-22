@@ -1,6 +1,10 @@
 # MCore-QB-ATMRobbery
 An ATM Robbery with a Mini Game and Crypto 
 
+Discord
+
+https://discord.gg/S8ESj3FkGp
+
 Preview 
 
 https://streamable.com/jkoz3r
