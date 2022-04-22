@@ -11,6 +11,8 @@ https://streamable.com/jkoz3r
 
 Depdencies:
 
+https://github.com/BerkieBb/qb-target
+
 https://github.com/utkuali/Finger-Print-Hacking-Game
 
 Images:
